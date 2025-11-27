@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OpenHands/docs/main/openhands/static/img/logo.png" alt="Logo" width="200">
+  <img src="https://raw.githubusercontent.com/team-telnyx/openhands/main/openhands/static/img/logo.png" alt="Logo" width="200">
   <h1 align="center" style="border-bottom: none">OpenHands: AI-Driven Development</h1>
 </div>
 
 
 <div align="center">
-  <a href="https://github.com/OpenHands/OpenHands/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-20B2AA?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/team-telnyx/openhands/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-20B2AA?style=for-the-badge" alt="MIT License"></a>
   <a href="https://docs.google.com/spreadsheets/d/1wOUdFCMyY6Nt0AIqF705KN4JKOWgeI4wUGUP60krXXs/edit?gid=811504672#gid=811504672"><img src="https://img.shields.io/badge/SWEBench-72.8-00cc00?logoColor=FFE165&style=for-the-badge" alt="Benchmark Score"></a>
   <br/>
   <a href="https://docs.openhands.dev/sdk"><img src="https://img.shields.io/badge/Documentation-000?logo=googledocs&logoColor=FFE165&style=for-the-badge" alt="Check out the documentation"></a>
@@ -15,14 +15,14 @@
 
 
   <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=de">Deutsch</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=es">Español</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=fr">français</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=ja">日本語</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=ko">한국어</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=pt">Português</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=ru">Русский</a> |
-  <a href="https://www.readme-i18n.com/OpenHands/OpenHands?lang=zh">中文</a>
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=de">Deutsch</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=es">Español</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=fr">français</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=ja">日本語</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=ko">한국어</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=pt">Português</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=ru">Русский</a> |
+  <a href="https://www.readme-i18n.com/team-telnyx/openhands?lang=zh">中文</a>
 
 </div>
 
@@ -76,7 +76,7 @@ Learn more at [openhands.dev/enterprise](https://openhands.dev/enterprise)
 ### Everything Else
 
 Check out our [Product Roadmap](https://github.com/orgs/openhands/projects/1), and feel free to
-[open up an issue](https://github.com/OpenHands/OpenHands/issues) if there's something you'd like to see!
+[open up an issue](https://github.com/team-telnyx/openhands/issues) if there's something you'd like to see!
 
 You might also be interested in our [evaluation infrastructure](https://github.com/OpenHands/benchmarks), our [chrome extension](https://github.com/OpenHands/openhands-chrome-extension/), or our [Theory-of-Mind module](https://github.com/OpenHands/ToM-SWE).
 
